@@ -133,7 +133,7 @@ Error generating stack: `+i.message+`
     --color-shopping-cart-quantity: #04c09e;
     --color-image-overlay: #ddd4ba;
   }
-`,rS="/assets/Logo-1a7fde19.png",Ye={sm:"768px",md:"992px",lg:"1200px"},oS=eS`
+`,rS="/react-shopping-cart-prod/assets/Logo-1a7fde19.png",Ye={sm:"768px",md:"992px",lg:"1200px"},oS=eS`
   0% {
     transform: translateY(-100%);
     opacity: 0;
